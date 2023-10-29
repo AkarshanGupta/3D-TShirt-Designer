@@ -1,4 +1,4 @@
-# 3D-TShirt-Designer
+# ThreadedArtisy
 Welcome to the future of fashion customization – a place where your imagination meets reality in stunning three-dimensional splendor.
 We proudly introduce our 3D T-shirt Designer site, where you are the artist, and the canvas is your favorite garment.
 Say goodbye to ordinary, mass-produced apparel and say hello to a world of endless possibilities.
